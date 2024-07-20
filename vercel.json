@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://www.ministry.builders/p/williams-memorial-education-department/$1"
+ }
+  ]
+}
